@@ -1,0 +1,23 @@
+What Are Some Good VS Code Extensions You Can Use in Your Editor?
+
+Better Comments is an extension that offers special highlighting for specific code comments. For example, it will call out "TODO" comments, as well as syntax to indicate questions or warnings.
+
+Code Spell Checker flags words that are spelled incorrectly in your code. Because it is designed for code files, it will account for things like camel case.
+
+Error Lens makes the errors in your code harder to miss. Rather than having to rely on the underline that VS Code shows by default, this extension highlights the entire line and displays the error message.
+
+Indent Rainbow adds color to your different levels of indentation. In combination with VS Code's native bracket pair colorization, this can dramatically help identify what scope your code is in.
+
+Or maybe you're looking for something a bit more practical? Consider an AI assistant, like GitHub Copilot or Tabnine, to offer you inline suggestions as you are writing your code.
+
+An icon pack, such as VS Code Great Icons, can help make your file tree cleaner and easier to parse at a glance. And an extension like Colorize can help you understand the values in your CSS properties.
+
+You'll also want language-specific extensions for your projects. If you are using JavaScript, you will likely want ESLint and Prettier to lint and format your code. If you are using TypeScript, you might want Pretty TypeScript Errors for easier-to-read messages.
+
+Finally, you can also have a bit of fun with your editor. VS Code Pets offers configurable virtual pets to keep you company while you squash some bugs.
+
+Power Mode will create flashy effects when you achieve a high enough "combo" by writing more code.
+
+Discord Presence will let you show off what you're working on to all of your friends.
+
+And there are so many more extensions out there. Feel free to explore the extension marketplace and see what works best for you.
